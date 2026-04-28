@@ -1,0 +1,22 @@
+{
+  "name": "devops-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jandave0/devops-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jandave0/devops-test/issues"
+  },
+  "homepage": "https://github.com/Jandave0/devops-test#readme"
+}
